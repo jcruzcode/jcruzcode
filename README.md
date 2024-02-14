@@ -9,9 +9,7 @@
 
 - 🌱 I’m currently learning **Node.js, Express, and MongoDB**
 
-- 👯 I’m looking to collaborate on **freelance projects**
-
-- 🤝 I’m looking for help with **open-source projects**
+- 👯 I’m looking to collaborate on **freelance and open-source projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jcruzcode](https://github.com/jcruzcode)
 
@@ -33,4 +31,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jcruzcode&show_icons=true&locale=en" alt="jcruzcode" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jcruzcode&" alt="jcruzcode" /></p>
+
+
 
